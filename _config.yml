@@ -1,13 +1,4 @@
-title: leena's changes
-author: leena is obviously the author
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Congradulations, you've made it to my website, finally! Well, bye now.
-
-# social links
-twitter_username: your-twitter-handle
-github_username:  your-github-handle
-
-show_excerpts: true # set to false to remove excerpts on the homepage
-
-theme: minima
+---
+title: "leena ford's title"
+date: 2018-09-07
+---
